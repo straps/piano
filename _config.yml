@@ -1,3 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Voglio Suonare il Piano
+description: Blog personale su come a 45 anni mi sono messo in gioco, voglio investire il mio tempo libero per imparare a suonare il pianoforte
